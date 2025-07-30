@@ -8,7 +8,7 @@ Sharing your R code doesn’t have to be a messy email chain or a zip file with 
 
 ### Presenters
 
-* [Michael Lydeamore](https://www.michaellydeamore.com) is a senior lecturer in the Department of Econometrics and Business Statistics. His research focusses on computational statistics, and network theory, applied to public health and infectious diseases problems. Dr Lydeamore is a Fellow of the Higher Education Academy, and editor for Royal Society Open Science and the Bulletin of Mathematical Biology. He is also currently a board member and treasurer for the [Australia and New Zealand Industrial and Applied Mathematics](http://www.anziam.org.au) society.
+* [Michael Lydeamore](https://www.michaellydeamore.com) is a senior lecturer in the Department of Econometrics and Business Statistics. His research focuses on computational statistics, and network theory, applied to public health and infectious diseases problems. Dr Lydeamore is a Fellow of the Higher Education Academy, and editor for Royal Society Open Science and the Bulletin of Mathematical Biology. He is also currently a board member and treasurer for the [Australia and New Zealand Industrial and Applied Mathematics](http://www.anziam.org.au) society.
 
 ### Background
 
@@ -43,9 +43,20 @@ This session will show you how you can share your code to others on the internet
 ## Getting started
 
 1. Ensure you have R and RStudio by following [these instructions](https://startr.numbat.space/modules/starter/installation/)
-2. Set up a GitHub account if you don't already have one, and make sure your SSH keys are set up.
+2. OPTIONAL: Set up a [GitHub](https://docs.github.com/en/get-started) account if you don't already have one, and make sure your SSH keys are set up. It's not essential for this workshop but eventually your package should be made available in a GitHub repo.
 3. Install Quarto from [here](https://quarto.org/docs/get-started/)
 4. Install the required packages for the workshop:  
 ```{r}
 install.packages(c("pkgdown","usethis","devtools"))
 ```
+
+Copyright: Michael Lydeamore 2025
+
+These materials are licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
