@@ -2,6 +2,10 @@
 
 Website: https://numbat-tutorials.github.io/tutorial_packaging_your_code
 
+---
+
+Sharing your R code doesn’t have to be a messy email chain or a zip file with cryptic scripts. In this hands-on workshop, you’ll learn how to wrap your code into a professional R package that’s easy to use, easy to share, and easy to maintain. We’ll guide you through the whole process—from setting up the structure to documenting your functions and publishing your work online, including websites for your documentation and submission to CRAN.
+
 ### Presenters
 
 * [Michael Lydeamore](https://www.michaellydeamore.com) is a senior lecturer in the Department of Econometrics and Business Statistics. His research focusses on computational statistics, and network theory, applied to public health and infectious diseases problems. Dr Lydeamore is a Fellow of the Higher Education Academy, and editor for Royal Society Open Science and the Bulletin of Mathematical Biology. He is also currently a board member and treasurer for the [Australia and New Zealand Industrial and Applied Mathematics](http://www.anziam.org.au) society.
@@ -24,6 +28,8 @@ This session will guide you through creating your first package for your code. T
 * Setting up your package for version control
 * Documenting your code to view inside R
 * Writing examples and vignettes
+
+---
 
 ### Session 2: Sharing your code on the web
 
