@@ -37,13 +37,13 @@ This session will show you how you can share your code to others on the internet
 
 * Syncing your code with git and GitHub
 * Hosting your documentation online using `roxygen2` and `pkgdown`
-* Checklists for submission of your package to CRAN
+* Checklists for submission of your package to CRAN, including testing on various platforms using [rhub](https://r-hub.github.io/rhub/index.html).
 * Preventing common reasons for package rejection by CRAN moderators
 
 ## Getting started
 
 1. Ensure you have R and RStudio by following [these instructions](https://startr.numbat.space/modules/starter/installation/)
-2. OPTIONAL: Set up a [GitHub](https://docs.github.com/en/get-started) account if you don't already have one, and make sure your SSH keys are set up. It's not essential for this workshop but eventually your package should be made available in a GitHub repo.
+2. Set up a [GitHub](https://docs.github.com/en/get-started) account if you don't already have one, and make sure your SSH keys are set up. It's not essential for this workshop but eventually your package should be made available in a GitHub repo, so this is a good time to start.
 3. Install Quarto from [here](https://quarto.org/docs/get-started/)
 4. Install the required packages for the workshop:  
 ```{r}
