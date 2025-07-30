@@ -14,7 +14,7 @@ Sharing your R code doesn’t have to be a messy email chain or a zip file with 
 
 You will need a basic understanding of R to the level explained in [R4DS](https://r4ds.hadley.nz/). Some knowledge of Quarto or RMarkdown will be useful.
 
-Knowledge of `git`, and an ability to use GitHub will be required. **Please ensure you have a GitHub account ready for this tutorial**.
+Knowledge of `git`, and an ability to use GitHub is advised. **To follow all the exercises, needs you to have a GitHub account ready for this tutorial**.
 
 ## Structure of the tutorial
 
